@@ -1,4 +1,4 @@
-# CursedChrome
+# CursedBrowser 
 
 <p align="center">
 	<img src="./images/doll.svg" height="128" width="128" /><img src="./images/doll.svg" height="128" width="128" /><img src="./images/doll.svg" height="128" width="128" /><img src="./images/doll.svg" height="128" width="128" /><img src="./images/doll.svg" height="128" width="128" />
